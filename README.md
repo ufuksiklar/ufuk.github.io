@@ -17,7 +17,7 @@ Portfolio
   Code: https://github.com/ufuk-techclass/counters-react-exercise
 
 5) React, Carshop-app project (2020)\
-  Demo (wait 50-60 seconds): https://carshop-deploy-pr0c.onrender.com \
+  Demo (wait 50-60 seconds): https://carshop-deploy-qsse.onrender.com \
   Code: https://github.com/ufuk-techclass/mycarshop
 
 6) AngularJS, Scoreboard project (2020)\
